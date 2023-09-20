@@ -1,5 +1,4 @@
 * Uso de Git y Github
-/Fork por Vicente García López/
 
 ** Presentación
 - [[https://www.youtube.com/watch?v=14H1Ultqxpw&index=1&list=PLQg_Bl-6Gfo9k0KQg5vaaV9r6Hg--nMA7][Presentación]]
